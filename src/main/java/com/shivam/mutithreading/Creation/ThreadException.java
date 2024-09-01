@@ -1,4 +1,4 @@
-package Creation;
+package com.shivam.mutithreading.Creation;
 
 public class ThreadException {
     public static void main(String[] args) {
